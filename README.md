@@ -1,5 +1,5 @@
 # aliyun_certbot_freebsd
-针对阿里云及FreeBSD用户提供的Certbot自动化证书更新 Automated certificate renewal with Certbot for Alibaba Cloud and FreeBSD users，linux 用户请采用https://github.com/cipherpuzzles/aliyun-cdn-cert-auto-renew/的方案 感谢这位大侠提供原始代码
+针对阿里云及FreeBSD用户提供的Certbot自动化证书更新 Automated certificate renewal with Certbot for Alibaba Cloud and FreeBSD users，linux 用户请采用https://github.com/cipherpuzzles/aliyun-cdn-cert-auto-renew/ 的方案 感谢这位大侠提供原始代码
 # aliyun 服务器证书自动更新脚本 适用于FreeBSD
 
 ## 简介
